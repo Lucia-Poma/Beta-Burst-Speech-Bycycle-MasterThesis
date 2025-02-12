@@ -1,8 +1,5 @@
 close all;clear all;clc;
 %% 
-%%% this script get raw data and 
-% 1) open cleaned and epoched data
-
 
 PATH_DATA='Z:\DBS';
 DATE=datestr(now,'yyyymmdd');
